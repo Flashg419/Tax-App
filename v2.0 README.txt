@@ -1,0 +1,7 @@
+TaxAppV2.0 changes
+
+Input Validation: Submit button has been disabled by default and is not enabled until valid values are entered into the text fields. 
+
+Decimal format has been changed for output. Decimal is now rounded to two decimals.
+
+Anchorpane settings have been adjusted so that the text fields and combo boxes adjust with window resizing.
